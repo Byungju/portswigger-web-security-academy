@@ -20,3 +20,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 006 | [SQL injection attack, listing the database contents on Oracle](./01-sqli/006-sqli-listing-database-contents-oracle.md) | Practitioner |
 | 007 | [SQL injection UNION attack, determining the number of columns returned by the query](./01-sqli/007-sqli-determine-number-of-columns.md) | Practitioner |
 | 008 | [SQL injection UNION attack, finding a column containing text](./01-sqli/008-sqli-find-column-containing-text.md) | Practitioner |
+| 009 | [SQL injection UNION attack, retrieving data from other tables](./01-sqli/009-sqli-retrieve-data-from-other-tables.md) | Practitioner |
