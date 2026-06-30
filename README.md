@@ -18,3 +18,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 004 | [SQL injection attack, querying the database type and version on MySQL and Microsoft](./01-sqli/004-sqli-querying-database-version-mysql-microsoft.md) | Practitioner |
 | 005 | [SQL injection attack, listing the database contents on non-Oracle databases](./01-sqli/005-sqli-listing-database-contents-non-oracle.md) | Practitioner |
 | 006 | [SQL injection attack, listing the database contents on Oracle](./01-sqli/006-sqli-listing-database-contents-oracle.md) | Practitioner |
+| 007 | [SQL injection UNION attack, determining the number of columns returned by the query](./01-sqli/007-sqli-determine-number-of-columns.md) | Practitioner |
