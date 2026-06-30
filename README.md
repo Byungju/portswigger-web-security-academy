@@ -16,3 +16,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 002 | [SQL injection vulnerability allowing login bypass](./01-sqli/002-sqli-login-bypass.md) | Apprentice |
 | 003 | [SQL injection attack, querying the database type and version on Oracle](./01-sqli/003-sqli-querying-database-version-oracle.md) | Practitioner |
 | 004 | [SQL injection attack, querying the database type and version on MySQL and Microsoft](./01-sqli/004-sqli-querying-database-version-mysql-microsoft.md) | Practitioner |
+| 005 | [SQL injection attack, listing the database contents on non-Oracle databases](./01-sqli/005-sqli-listing-database-contents-non-oracle.md) | Practitioner |
