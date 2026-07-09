@@ -38,3 +38,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 |---|-----|--------|
 | 001 | [Reflected XSS into HTML context with nothing encoded](./02-xss/001-xss-reflected-html-context-nothing-encoded.md) | Apprentice |
 | 002 | [Stored XSS into HTML context with nothing encoded](./02-xss/002-xss-stored-html-context-nothing-encoded.md) | Apprentice |
+| 003 | [DOM XSS in document.write sink using source location.search](./02-xss/003-xss-dom-document-write-sink.md) | Apprentice |
