@@ -61,3 +61,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 023 | [Exploiting cross-site scripting to capture passwords](./02-xss/023-xss-exploiting-capturing-passwords.md) | Practitioner |
 | 024 | [Exploiting XSS to perform CSRF](./02-xss/024-xss-exploiting-csrf.md) | Practitioner |
 | 025 | [Reflected XSS with AngularJS sandbox escape without strings](./02-xss/025-xss-angular-sandbox-escape-without-strings.md) | Expert |
+| 026 | [Reflected XSS with AngularJS sandbox escape and CSP](./02-xss/026-xss-angular-sandbox-escape-and-csp.md) | Expert |
