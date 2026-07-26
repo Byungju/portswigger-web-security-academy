@@ -73,3 +73,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | # | 랩 | 난이도 |
 |---|-----|--------|
 | 001 | [CSRF vulnerability with no defenses](./03-csrf/001-csrf-no-defenses.md) | Apprentice |
+| 002 | [CSRF where token validation depends on request method](./03-csrf/002-csrf-token-validation-depends-on-request-method.md) | Practitioner |
