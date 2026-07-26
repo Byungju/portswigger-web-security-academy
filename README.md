@@ -8,6 +8,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 |---|------|----------|
 | 01 | SQL Injection | [01-sqli](./01-sqli) |
 | 02 | Cross-Site Scripting (XSS) | [02-xss](./02-xss) |
+| 03 | Cross-Site Request Forgery (CSRF) | [03-csrf](./03-csrf) |
 
 ### 01. SQL Injection
 
@@ -66,3 +67,9 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 028 | [Reflected XSS in a JavaScript URL with some characters blocked](./02-xss/028-xss-javascript-url-characters-blocked.md) | Expert |
 | 029 | [Reflected XSS protected by very strict CSP, with dangling markup attack](./02-xss/029-xss-csp-dangling-markup.md) | Practitioner |
 | 030 | [Reflected XSS protected by CSP, with CSP bypass](./02-xss/030-xss-csp-bypass.md) | Expert |
+
+### 03. Cross-Site Request Forgery (CSRF)
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [CSRF vulnerability with no defenses](./03-csrf/001-csrf-no-defenses.md) | Apprentice |
