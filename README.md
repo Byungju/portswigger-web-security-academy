@@ -77,3 +77,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 003 | [CSRF where token validation depends on token being present](./03-csrf/003-csrf-token-validation-depends-on-token-being-present.md) | Practitioner |
 | 004 | [CSRF where token is not tied to user session](./03-csrf/004-csrf-token-not-tied-to-user-session.md) | Practitioner |
 | 005 | [CSRF where token is tied to non-session cookie](./03-csrf/005-csrf-token-tied-to-non-session-cookie.md) | Practitioner |
+| 006 | [CSRF where token is duplicated in cookie](./03-csrf/006-csrf-token-duplicated-in-cookie.md) | Practitioner |
