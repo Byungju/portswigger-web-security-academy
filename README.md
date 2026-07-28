@@ -82,3 +82,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 008 | [SameSite Strict bypass via client-side redirect](./03-csrf/008-csrf-samesite-strict-bypass-client-side-redirect.md) | Practitioner |
 | 009 | [SameSite Strict bypass via sibling domain](./03-csrf/009-csrf-samesite-strict-bypass-sibling-domain.md) | Practitioner |
 | 010 | [SameSite Lax bypass via cookie refresh](./03-csrf/010-csrf-samesite-bypass-cookie-refresh.md) | Practitioner |
+| 011 | [CSRF where Referer validation depends on header being present](./03-csrf/011-csrf-referer-validation-depends-on-header-being-present.md) | Practitioner |
