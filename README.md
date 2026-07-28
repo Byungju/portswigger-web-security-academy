@@ -81,3 +81,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 007 | [SameSite Lax bypass via method override](./03-csrf/007-csrf-samesite-lax-bypass-method-override.md) | Practitioner |
 | 008 | [SameSite Strict bypass via client-side redirect](./03-csrf/008-csrf-samesite-strict-bypass-client-side-redirect.md) | Practitioner |
 | 009 | [SameSite Strict bypass via sibling domain](./03-csrf/009-csrf-samesite-strict-bypass-sibling-domain.md) | Practitioner |
+| 010 | [SameSite Lax bypass via cookie refresh](./03-csrf/010-csrf-samesite-bypass-cookie-refresh.md) | Practitioner |
