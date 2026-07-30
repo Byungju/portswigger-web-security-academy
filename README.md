@@ -9,6 +9,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 01 | SQL Injection | [01-sqli](./01-sqli) |
 | 02 | Cross-Site Scripting (XSS) | [02-xss](./02-xss) |
 | 03 | Cross-Site Request Forgery (CSRF) | [03-csrf](./03-csrf) |
+| 04 | Clickjacking | [04-clickjacking](./04-clickjacking) |
 
 ### 01. SQL Injection
 
@@ -84,3 +85,10 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 010 | [SameSite Lax bypass via cookie refresh](./03-csrf/010-csrf-samesite-bypass-cookie-refresh.md) | Practitioner |
 | 011 | [CSRF where Referer validation depends on header being present](./03-csrf/011-csrf-referer-validation-depends-on-header-being-present.md) | Practitioner |
 | 012 | [CSRF with broken Referer validation](./03-csrf/012-csrf-referer-validation-broken.md) | Practitioner |
+
+### 04. Clickjacking
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [Basic clickjacking with CSRF token protection](./04-clickjacking/001-clickjacking-basic-csrf-protected.md) | Apprentice |
+| 002 | [Clickjacking with form input data prefilled from a URL parameter](./04-clickjacking/002-clickjacking-prefilled-form-input.md) | Apprentice |
