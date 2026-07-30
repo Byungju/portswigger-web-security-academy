@@ -93,3 +93,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 001 | [Basic clickjacking with CSRF token protection](./04-clickjacking/001-clickjacking-basic-csrf-protected.md) | Apprentice |
 | 002 | [Clickjacking with form input data prefilled from a URL parameter](./04-clickjacking/002-clickjacking-prefilled-form-input.md) | Apprentice |
 | 003 | [Clickjacking with a frame buster script](./04-clickjacking/003-clickjacking-frame-buster-script.md) | Apprentice |
+| 004 | [Exploiting clickjacking vulnerability to trigger DOM-based XSS](./04-clickjacking/004-clickjacking-dom-xss.md) | Practitioner |
