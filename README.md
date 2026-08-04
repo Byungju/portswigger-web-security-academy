@@ -10,6 +10,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 02 | Cross-Site Scripting (XSS) | [02-xss](./02-xss) |
 | 03 | Cross-Site Request Forgery (CSRF) | [03-csrf](./03-csrf) |
 | 04 | Clickjacking | [04-clickjacking](./04-clickjacking) |
+| 05 | DOM-based Vulnerabilities | [05-dom-based-vulnerabilities](./05-dom-based-vulnerabilities) |
 
 ### 01. SQL Injection
 
@@ -95,3 +96,9 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 003 | [Clickjacking with a frame buster script](./04-clickjacking/003-clickjacking-frame-buster-script.md) | Apprentice |
 | 004 | [Exploiting clickjacking vulnerability to trigger DOM-based XSS](./04-clickjacking/004-clickjacking-dom-xss.md) | Practitioner |
 | 005 | [Multistep clickjacking](./04-clickjacking/005-clickjacking-multistep.md) | Practitioner |
+
+### 05. DOM-based Vulnerabilities
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [DOM XSS using web messages](./05-dom-based-vulnerabilities/001-dom-xss-web-messages.md) | Apprentice |
