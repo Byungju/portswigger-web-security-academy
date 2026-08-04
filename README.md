@@ -102,3 +102,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | # | 랩 | 난이도 |
 |---|-----|--------|
 | 001 | [DOM XSS using web messages](./05-dom-based-vulnerabilities/001-dom-xss-web-messages.md) | Apprentice |
+| 002 | [DOM XSS using web messages and a JavaScript URL](./05-dom-based-vulnerabilities/002-dom-xss-web-messages-javascript-url.md) | Apprentice |
