@@ -11,6 +11,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 03 | Cross-Site Request Forgery (CSRF) | [03-csrf](./03-csrf) |
 | 04 | Clickjacking | [04-clickjacking](./04-clickjacking) |
 | 05 | DOM-based Vulnerabilities | [05-dom-based-vulnerabilities](./05-dom-based-vulnerabilities) |
+| 06 | Cross-Origin Resource Sharing (CORS) | [06-cross-origin-resource-sharing](./06-cross-origin-resource-sharing) |
 
 ### 01. SQL Injection
 
@@ -108,3 +109,11 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 005 | [DOM-based cookie manipulation](./05-dom-based-vulnerabilities/005-dom-cookie-manipulation.md) | Practitioner |
 | 006 | [DOM XSS exploiting DOM clobbering](./05-dom-based-vulnerabilities/006-dom-xss-dom-clobbering.md) | Expert |
 | 007 | [DOM clobbering to bypass HTML filters](./05-dom-based-vulnerabilities/007-dom-clobbering-bypass-html-filters.md) | Expert |
+
+### 06. Cross-Origin Resource Sharing (CORS)
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [CORS vulnerability with basic origin reflection](./06-cross-origin-resource-sharing/001-cors-basic-origin-reflection.md) | Apprentice |
+| 002 | [CORS vulnerability with trusted null origin](./06-cross-origin-resource-sharing/002-cors-null-origin-whitelisted.md) | Apprentice |
+| 003 | [CORS vulnerability with trusted insecure protocols](./06-cross-origin-resource-sharing/003-cors-breaking-https.md) | Practitioner |
