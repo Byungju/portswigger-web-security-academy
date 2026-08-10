@@ -124,3 +124,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | # | 랩 | 난이도 |
 |---|-----|--------|
 | 001 | [Exploiting XXE using external entities to retrieve files](./07-xxe-injection/001-xxe-retrieve-files.md) | Apprentice |
+| 002 | [Exploiting XXE to perform SSRF attacks](./07-xxe-injection/002-xxe-ssrf.md) | Apprentice |
