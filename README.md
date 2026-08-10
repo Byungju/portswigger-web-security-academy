@@ -125,3 +125,8 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 |---|-----|--------|
 | 001 | [Exploiting XXE using external entities to retrieve files](./07-xxe-injection/001-xxe-retrieve-files.md) | Apprentice |
 | 002 | [Exploiting XXE to perform SSRF attacks](./07-xxe-injection/002-xxe-ssrf.md) | Apprentice |
+| 003 | [Blind XXE with out-of-band interaction](./07-xxe-injection/003-xxe-blind-oob.md) | Practitioner |
+| 004 | [Blind XXE with out-of-band interaction using XML parameter entities](./07-xxe-injection/004-xxe-blind-oob-parameter-entities.md) | Practitioner |
+| 005 | [Exploiting blind XXE to exfiltrate data using a malicious external DTD](./07-xxe-injection/005-xxe-blind-exfiltration.md) | Practitioner |
+| 006 | [Exploiting blind XXE to retrieve data via error messages](./07-xxe-injection/006-xxe-blind-error-based.md) | Practitioner |
+| 007 | [Exploiting XInclude to retrieve files](./07-xxe-injection/007-xxe-xinclude.md) | Practitioner |
