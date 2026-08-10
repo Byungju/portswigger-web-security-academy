@@ -12,6 +12,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 04 | Clickjacking | [04-clickjacking](./04-clickjacking) |
 | 05 | DOM-based Vulnerabilities | [05-dom-based-vulnerabilities](./05-dom-based-vulnerabilities) |
 | 06 | Cross-Origin Resource Sharing (CORS) | [06-cross-origin-resource-sharing](./06-cross-origin-resource-sharing) |
+| 07 | XML External Entity (XXE) Injection | [07-xxe-injection](./07-xxe-injection) |
 
 ### 01. SQL Injection
 
@@ -117,3 +118,9 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 001 | [CORS vulnerability with basic origin reflection](./06-cross-origin-resource-sharing/001-cors-basic-origin-reflection.md) | Apprentice |
 | 002 | [CORS vulnerability with trusted null origin](./06-cross-origin-resource-sharing/002-cors-null-origin-whitelisted.md) | Apprentice |
 | 003 | [CORS vulnerability with trusted insecure protocols](./06-cross-origin-resource-sharing/003-cors-breaking-https.md) | Practitioner |
+
+### 07. XML External Entity (XXE) Injection
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [Exploiting XXE using external entities to retrieve files](./07-xxe-injection/001-xxe-retrieve-files.md) | Apprentice |
