@@ -130,3 +130,5 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 005 | [Exploiting blind XXE to exfiltrate data using a malicious external DTD](./07-xxe-injection/005-xxe-blind-exfiltration.md) | Practitioner |
 | 006 | [Exploiting blind XXE to retrieve data via error messages](./07-xxe-injection/006-xxe-blind-error-based.md) | Practitioner |
 | 007 | [Exploiting XInclude to retrieve files](./07-xxe-injection/007-xxe-xinclude.md) | Practitioner |
+| 008 | [Exploiting XXE via image file upload](./07-xxe-injection/008-xxe-file-upload.md) | Practitioner |
+| 009 | [Exploiting XXE to inject through a local DTD](./07-xxe-injection/009-xxe-local-dtd.md) | Expert |
