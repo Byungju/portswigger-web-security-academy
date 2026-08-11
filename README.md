@@ -13,6 +13,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 05 | DOM-based Vulnerabilities | [05-dom-based-vulnerabilities](./05-dom-based-vulnerabilities) |
 | 06 | Cross-Origin Resource Sharing (CORS) | [06-cross-origin-resource-sharing](./06-cross-origin-resource-sharing) |
 | 07 | XML External Entity (XXE) Injection | [07-xxe-injection](./07-xxe-injection) |
+| 08 | Server-Side Request Forgery (SSRF) | [08-ssrf](./08-ssrf) |
 
 ### 01. SQL Injection
 
@@ -132,3 +133,9 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 007 | [Exploiting XInclude to retrieve files](./07-xxe-injection/007-xxe-xinclude.md) | Practitioner |
 | 008 | [Exploiting XXE via image file upload](./07-xxe-injection/008-xxe-file-upload.md) | Practitioner |
 | 009 | [Exploiting XXE to inject through a local DTD](./07-xxe-injection/009-xxe-local-dtd.md) | Expert |
+
+### 08. Server-Side Request Forgery (SSRF)
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [Basic SSRF against the local server](./08-ssrf/001-ssrf-basic-localhost.md) | Apprentice |
