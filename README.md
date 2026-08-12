@@ -139,3 +139,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | # | 랩 | 난이도 |
 |---|-----|--------|
 | 001 | [Basic SSRF against the local server](./08-ssrf/001-ssrf-basic-localhost.md) | Apprentice |
+| 002 | [Basic SSRF against another back-end system](./08-ssrf/002-ssrf-basic-backend-system.md) | Apprentice |
