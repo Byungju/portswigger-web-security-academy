@@ -142,3 +142,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 002 | [Basic SSRF against another back-end system](./08-ssrf/002-ssrf-basic-backend-system.md) | Apprentice |
 | 003 | [Blind SSRF with out-of-band detection](./08-ssrf/003-ssrf-blind-oob-detection.md) | Practitioner |
 | 004 | [SSRF with blacklist-based input filter](./08-ssrf/004-ssrf-blacklist-filter.md) | Practitioner |
+| 005 | [SSRF with filter bypass via open redirection](./08-ssrf/005-ssrf-open-redirect-filter-bypass.md) | Practitioner |
