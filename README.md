@@ -153,3 +153,6 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 |---|-----|--------|
 | 001 | [HTTP request smuggling, confirming a CL.TE vulnerability via differential responses](./09-request-smuggling/001-cl-te-differential-response.md) | Practitioner |
 | 002 | [HTTP request smuggling, confirming a TE.CL vulnerability via differential responses](./09-request-smuggling/002-te-cl-differential-response.md) | Practitioner |
+| 003 | [Bypassing front-end security controls, CL.TE vulnerability](./09-request-smuggling/003-cl-te-bypass-frontend-controls.md) | Practitioner |
+| 004 | [Bypassing front-end security controls, TE.CL vulnerability](./09-request-smuggling/004-te-cl-bypass-frontend-controls.md) | Practitioner |
+| 005 | [Revealing front-end request rewriting](./09-request-smuggling/005-reveal-frontend-rewriting.md) | Practitioner |
