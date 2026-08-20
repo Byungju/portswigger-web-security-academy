@@ -156,3 +156,5 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 003 | [Bypassing front-end security controls, CL.TE vulnerability](./09-request-smuggling/003-cl-te-bypass-frontend-controls.md) | Practitioner |
 | 004 | [Bypassing front-end security controls, TE.CL vulnerability](./09-request-smuggling/004-te-cl-bypass-frontend-controls.md) | Practitioner |
 | 005 | [Revealing front-end request rewriting](./09-request-smuggling/005-reveal-frontend-rewriting.md) | Practitioner |
+| 006 | [Capturing other users' requests](./09-request-smuggling/006-capture-other-users-requests.md) | Practitioner |
+| 007 | [Exploiting HTTP request smuggling to deliver reflected XSS](./09-request-smuggling/007-deliver-reflected-xss.md) | Practitioner |
