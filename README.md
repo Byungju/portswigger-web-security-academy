@@ -158,3 +158,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 005 | [Revealing front-end request rewriting](./09-request-smuggling/005-reveal-frontend-rewriting.md) | Practitioner |
 | 006 | [Capturing other users' requests](./09-request-smuggling/006-capture-other-users-requests.md) | Practitioner |
 | 007 | [Exploiting HTTP request smuggling to deliver reflected XSS](./09-request-smuggling/007-deliver-reflected-xss.md) | Practitioner |
+| 008 | [H2.TE request smuggling — Response queue poisoning](./09-request-smuggling/008-h2-response-queue-poisoning-te.md) | Expert |
