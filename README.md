@@ -15,6 +15,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 07 | XML External Entity (XXE) Injection | [07-xxe-injection](./07-xxe-injection) |
 | 08 | Server-Side Request Forgery (SSRF) | [08-ssrf](./08-ssrf) |
 | 09 | HTTP Request Smuggling | [09-request-smuggling](./09-request-smuggling) |
+| 10 | OS Command Injection | [10-os-command-injection](./10-os-command-injection) |
 
 ### 01. SQL Injection
 
@@ -159,3 +160,13 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 006 | [Capturing other users' requests](./09-request-smuggling/006-capture-other-users-requests.md) | Practitioner |
 | 007 | [Exploiting HTTP request smuggling to deliver reflected XSS](./09-request-smuggling/007-deliver-reflected-xss.md) | Practitioner |
 | 008 | [H2.TE request smuggling — Response queue poisoning](./09-request-smuggling/008-h2-response-queue-poisoning-te.md) | Expert |
+
+### 10. OS Command Injection
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [OS command injection, simple case](./10-os-command-injection/001-os-command-injection-simple.md) | Apprentice |
+| 002 | [Blind OS command injection with time delays](./10-os-command-injection/002-blind-time-delays.md) | Practitioner |
+| 003 | [Blind OS command injection with output redirection](./10-os-command-injection/003-blind-output-redirection.md) | Practitioner |
+| 004 | [Blind OS command injection with out-of-band interaction](./10-os-command-injection/004-blind-oob-interaction.md) | Practitioner |
+| 005 | [Blind OS command injection with out-of-band data exfiltration](./10-os-command-injection/005-blind-oob-data-exfiltration.md) | Practitioner |
