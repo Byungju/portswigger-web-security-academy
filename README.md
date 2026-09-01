@@ -16,6 +16,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 08 | Server-Side Request Forgery (SSRF) | [08-ssrf](./08-ssrf) |
 | 09 | HTTP Request Smuggling | [09-request-smuggling](./09-request-smuggling) |
 | 10 | OS Command Injection | [10-os-command-injection](./10-os-command-injection) |
+| 11 | Server-Side Template Injection (SSTI) | [11-ssti](./11-ssti) |
 
 ### 01. SQL Injection
 
@@ -170,3 +171,10 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 003 | [Blind OS command injection with output redirection](./10-os-command-injection/003-blind-output-redirection.md) | Practitioner |
 | 004 | [Blind OS command injection with out-of-band interaction](./10-os-command-injection/004-blind-oob-interaction.md) | Practitioner |
 | 005 | [Blind OS command injection with out-of-band data exfiltration](./10-os-command-injection/005-blind-oob-data-exfiltration.md) | Practitioner |
+
+### 11. Server-Side Template Injection (SSTI)
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [Basic server-side template injection](./11-ssti/001-ssti-basic.md) | Apprentice |
+| 002 | [Basic server-side template injection (code context)](./11-ssti/002-ssti-basic-code-context.md) | Apprentice |
