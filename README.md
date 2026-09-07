@@ -179,3 +179,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 001 | [Basic server-side template injection](./11-ssti/001-ssti-basic.md) | Apprentice |
 | 002 | [Basic server-side template injection (code context)](./11-ssti/002-ssti-basic-code-context.md) | Apprentice |
 | 003 | [Server-side template injection using documentation](./11-ssti/003-ssti-using-documentation.md) | Practitioner |
+| 004 | [Server-side template injection in an unknown language with a documented exploit](./11-ssti/004-ssti-unknown-language-handlebars.md) | Practitioner |
