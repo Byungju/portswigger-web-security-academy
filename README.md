@@ -180,3 +180,6 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 002 | [Basic server-side template injection (code context)](./11-ssti/002-ssti-basic-code-context.md) | Apprentice |
 | 003 | [Server-side template injection using documentation](./11-ssti/003-ssti-using-documentation.md) | Practitioner |
 | 004 | [Server-side template injection in an unknown language with a documented exploit](./11-ssti/004-ssti-unknown-language-handlebars.md) | Practitioner |
+| 005 | [Server-side template injection with information disclosure via user-supplied objects](./11-ssti/005-ssti-information-disclosure-django.md) | Practitioner |
+| 006 | [Server-side template injection in a sandboxed environment](./11-ssti/006-ssti-sandboxed-environment.md) | Expert |
+| 007 | [Server-side template injection with a custom exploit](./11-ssti/007-ssti-custom-exploit-twig.md) | Expert |
