@@ -17,6 +17,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 09 | HTTP Request Smuggling | [09-request-smuggling](./09-request-smuggling) |
 | 10 | OS Command Injection | [10-os-command-injection](./10-os-command-injection) |
 | 11 | Server-Side Template Injection (SSTI) | [11-ssti](./11-ssti) |
+| 12 | Path Traversal | [12-path-traversal](./12-path-traversal) |
 
 ### 01. SQL Injection
 
@@ -183,3 +184,9 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 005 | [Server-side template injection with information disclosure via user-supplied objects](./11-ssti/005-ssti-information-disclosure-django.md) | Practitioner |
 | 006 | [Server-side template injection in a sandboxed environment](./11-ssti/006-ssti-sandboxed-environment.md) | Expert |
 | 007 | [Server-side template injection with a custom exploit](./11-ssti/007-ssti-custom-exploit-twig.md) | Expert |
+
+### 12. Path Traversal
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [File path traversal, simple case](./12-path-traversal/001-path-traversal-simple.md) | Apprentice |
