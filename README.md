@@ -190,3 +190,8 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | # | 랩 | 난이도 |
 |---|-----|--------|
 | 001 | [File path traversal, simple case](./12-path-traversal/001-path-traversal-simple.md) | Apprentice |
+| 002 | [File path traversal, traversal sequences blocked with absolute path bypass](./12-path-traversal/002-path-traversal-absolute-path-bypass.md) | Practitioner |
+| 003 | [File path traversal, traversal sequences stripped non-recursively](./12-path-traversal/003-path-traversal-sequences-stripped-non-recursively.md) | Practitioner |
+| 004 | [File path traversal, traversal sequences stripped with superfluous URL-decode](./12-path-traversal/004-path-traversal-superfluous-url-decode.md) | Practitioner |
+| 005 | [File path traversal, validation of start of path](./12-path-traversal/005-path-traversal-validate-start-of-path.md) | Practitioner |
+| 006 | [File path traversal, validation of file extension with null byte bypass](./12-path-traversal/006-path-traversal-validate-file-extension-null-byte-bypass.md) | Practitioner |
