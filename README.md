@@ -18,6 +18,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 10 | OS Command Injection | [10-os-command-injection](./10-os-command-injection) |
 | 11 | Server-Side Template Injection (SSTI) | [11-ssti](./11-ssti) |
 | 12 | Path Traversal | [12-path-traversal](./12-path-traversal) |
+| 13 | Access Control | [13-access-control](./13-access-control) |
 
 ### 01. SQL Injection
 
@@ -195,3 +196,21 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 004 | [File path traversal, traversal sequences stripped with superfluous URL-decode](./12-path-traversal/004-path-traversal-superfluous-url-decode.md) | Practitioner |
 | 005 | [File path traversal, validation of start of path](./12-path-traversal/005-path-traversal-validate-start-of-path.md) | Practitioner |
 | 006 | [File path traversal, validation of file extension with null byte bypass](./12-path-traversal/006-path-traversal-validate-file-extension-null-byte-bypass.md) | Practitioner |
+
+### 13. Access Control
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [Unprotected admin functionality](./13-access-control/001-access-control-unprotected-admin-functionality.md) | Apprentice |
+| 002 | [Unprotected admin functionality with unpredictable URL](./13-access-control/002-access-control-unpredictable-url.md) | Apprentice |
+| 003 | [User role controlled by request parameter](./13-access-control/003-access-control-role-controlled-by-request-parameter.md) | Apprentice |
+| 004 | [User role can be modified in user profile](./13-access-control/004-access-control-role-modified-in-profile.md) | Apprentice |
+| 005 | [User ID controlled by request parameter](./13-access-control/005-access-control-user-id-request-parameter.md) | Apprentice |
+| 006 | [User ID controlled by request parameter, with unpredictable user IDs](./13-access-control/006-access-control-unpredictable-user-ids.md) | Apprentice |
+| 007 | [User ID controlled by request parameter with data leakage in redirect](./13-access-control/007-access-control-data-leakage-in-redirect.md) | Apprentice |
+| 008 | [User ID controlled by request parameter with password disclosure](./13-access-control/008-access-control-user-id-password-disclosure.md) | Apprentice |
+| 009 | [Insecure direct object references](./13-access-control/009-access-control-idor.md) | Apprentice |
+| 010 | [URL-based access control can be circumvented](./13-access-control/010-access-control-url-based-circumvented.md) | Practitioner |
+| 011 | [Method-based access control can be circumvented](./13-access-control/011-access-control-method-based-circumvented.md) | Practitioner |
+| 012 | [Multi-step process with no access control on one step](./13-access-control/012-access-control-multi-step-process.md) | Practitioner |
+| 013 | [Referer-based access control](./13-access-control/013-access-control-referer-based.md) | Practitioner |
