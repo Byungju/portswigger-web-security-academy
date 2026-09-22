@@ -221,3 +221,6 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | # | 랩 | 난이도 |
 |---|-----|--------|
 | 001 | [Username enumeration via different responses](./14-authentication/001-authentication-username-enumeration-different-responses.md) | Apprentice |
+| 002 | [2FA simple bypass](./14-authentication/002-authentication-2fa-simple-bypass.md) | Apprentice |
+| 003 | [Password reset broken logic](./14-authentication/003-authentication-password-reset-broken-logic.md) | Practitioner |
+| 004 | [Username enumeration via subtly different responses](./14-authentication/004-authentication-username-enumeration-subtly-different-responses.md) | Apprentice |
