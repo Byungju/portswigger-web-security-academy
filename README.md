@@ -19,6 +19,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 11 | Server-Side Template Injection (SSTI) | [11-ssti](./11-ssti) |
 | 12 | Path Traversal | [12-path-traversal](./12-path-traversal) |
 | 13 | Access Control | [13-access-control](./13-access-control) |
+| 14 | Authentication | [14-authentication](./14-authentication) |
 
 ### 01. SQL Injection
 
@@ -214,3 +215,9 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 011 | [Method-based access control can be circumvented](./13-access-control/011-access-control-method-based-circumvented.md) | Practitioner |
 | 012 | [Multi-step process with no access control on one step](./13-access-control/012-access-control-multi-step-process.md) | Practitioner |
 | 013 | [Referer-based access control](./13-access-control/013-access-control-referer-based.md) | Practitioner |
+
+### 14. Authentication
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [Username enumeration via different responses](./14-authentication/001-authentication-username-enumeration-different-responses.md) | Apprentice |
