@@ -228,3 +228,4 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 006 | [Broken brute-force protection, IP block](./14-authentication/006-authentication-broken-bruteforce-protection-ip-block.md) | Practitioner |
 | 007 | [Username enumeration via account lock](./14-authentication/007-authentication-username-enumeration-account-lock.md) | Practitioner |
 | 008 | [2FA broken logic](./14-authentication/008-authentication-2fa-broken-logic.md) | Practitioner |
+| 009 | [Brute-forcing a stay-logged-in cookie](./14-authentication/009-authentication-brute-forcing-stay-logged-in-cookie.md) | Practitioner |
