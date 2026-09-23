@@ -224,3 +224,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 002 | [2FA simple bypass](./14-authentication/002-authentication-2fa-simple-bypass.md) | Apprentice |
 | 003 | [Password reset broken logic](./14-authentication/003-authentication-password-reset-broken-logic.md) | Practitioner |
 | 004 | [Username enumeration via subtly different responses](./14-authentication/004-authentication-username-enumeration-subtly-different-responses.md) | Apprentice |
+| 005 | [Username enumeration via response timing](./14-authentication/005-authentication-username-enumeration-response-timing.md) | Practitioner |
+| 006 | [Broken brute-force protection, IP block](./14-authentication/006-authentication-broken-bruteforce-protection-ip-block.md) | Practitioner |
+| 007 | [Username enumeration via account lock](./14-authentication/007-authentication-username-enumeration-account-lock.md) | Practitioner |
+| 008 | [2FA broken logic](./14-authentication/008-authentication-2fa-broken-logic.md) | Practitioner |
