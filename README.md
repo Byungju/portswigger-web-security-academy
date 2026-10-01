@@ -20,6 +20,8 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 12 | Path Traversal | [12-path-traversal](./12-path-traversal) |
 | 13 | Access Control | [13-access-control](./13-access-control) |
 | 14 | Authentication | [14-authentication](./14-authentication) |
+| 15 | WebSockets | [15-websocket](./15-websocket) |
+| 16 | Web Cache Poisoning | [16-web-cache-poisoning](./16-web-cache-poisoning) |
 
 ### 01. SQL Injection
 
@@ -229,3 +231,24 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 007 | [Username enumeration via account lock](./14-authentication/007-authentication-username-enumeration-account-lock.md) | Practitioner |
 | 008 | [2FA broken logic](./14-authentication/008-authentication-2fa-broken-logic.md) | Practitioner |
 | 009 | [Brute-forcing a stay-logged-in cookie](./14-authentication/009-authentication-brute-forcing-stay-logged-in-cookie.md) | Practitioner |
+| 010 | [Offline password cracking](./14-authentication/010-authentication-offline-password-cracking.md) | Practitioner |
+| 011 | [Password reset poisoning via middleware](./14-authentication/011-authentication-password-reset-poisoning-via-middleware.md) | Practitioner |
+| 012 | [Password brute-force via password change](./14-authentication/012-authentication-password-brute-force-via-password-change.md) | Practitioner |
+| 013 | [Broken brute-force protection, multiple credentials per request](./14-authentication/013-authentication-broken-brute-force-multiple-credentials.md) | Practitioner |
+| 014 | [2FA bypass using a brute-force attack](./14-authentication/014-authentication-2fa-bypass-brute-force.md) | Practitioner |
+
+### 15. WebSockets
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [Manipulating WebSocket messages to exploit vulnerabilities](./15-websocket/001-websocket-manipulating-messages-xss.md) | Apprentice |
+| 002 | [Cross-site WebSocket hijacking](./15-websocket/002-websocket-cross-site-hijacking.md) | Practitioner |
+| 003 | [Manipulating the WebSocket handshake to exploit vulnerabilities](./15-websocket/003-websocket-manipulating-handshake-xss.md) | Practitioner |
+
+### 16. Web Cache Poisoning
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [Web cache poisoning with an unkeyed header](./16-web-cache-poisoning/001-web-cache-poisoning-unkeyed-header.md) | Practitioner |
+| 002 | [Web cache poisoning with an unkeyed cookie](./16-web-cache-poisoning/002-web-cache-poisoning-unkeyed-cookie.md) | Practitioner |
+| 003 | [Web cache poisoning with multiple headers](./16-web-cache-poisoning/003-web-cache-poisoning-multiple-headers.md) | Practitioner |
