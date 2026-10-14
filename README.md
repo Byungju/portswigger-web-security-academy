@@ -22,6 +22,7 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 14 | Authentication | [14-authentication](./14-authentication) |
 | 15 | WebSockets | [15-websocket](./15-websocket) |
 | 16 | Web Cache Poisoning | [16-web-cache-poisoning](./16-web-cache-poisoning) |
+| 17 | Insecure Deserialization | [17-insecure-deserialization](./17-insecure-deserialization) |
 
 ### 01. SQL Injection
 
@@ -252,3 +253,23 @@ PortSwigger Web Security Academy 학습 기록을 정리하는 저장소입니�
 | 001 | [Web cache poisoning with an unkeyed header](./16-web-cache-poisoning/001-web-cache-poisoning-unkeyed-header.md) | Practitioner |
 | 002 | [Web cache poisoning with an unkeyed cookie](./16-web-cache-poisoning/002-web-cache-poisoning-unkeyed-cookie.md) | Practitioner |
 | 003 | [Web cache poisoning with multiple headers](./16-web-cache-poisoning/003-web-cache-poisoning-multiple-headers.md) | Practitioner |
+| 004 | [Targeted web cache poisoning using an unknown header](./16-web-cache-poisoning/004-web-cache-poisoning-targeted-unknown-header.md) | Practitioner |
+| 005 | [Web cache poisoning via an unkeyed query string](./16-web-cache-poisoning/005-web-cache-poisoning-unkeyed-query.md) | Practitioner |
+| 006 | [Web cache poisoning via an unkeyed query parameter](./16-web-cache-poisoning/006-web-cache-poisoning-unkeyed-param.md) | Practitioner |
+| 007 | [Parameter cloaking](./16-web-cache-poisoning/007-web-cache-poisoning-param-cloaking.md) | Practitioner |
+| 008 | [Web cache poisoning via a fat GET request](./16-web-cache-poisoning/008-web-cache-poisoning-fat-get.md) | Practitioner |
+| 009 | [URL normalization](./16-web-cache-poisoning/009-web-cache-poisoning-url-normalization.md) | Practitioner |
+| 010 | [Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria](./16-web-cache-poisoning/010-web-cache-poisoning-dom-vulnerability-strict-cacheability.md) | Practitioner |
+| 011 | [Combining web cache poisoning vulnerabilities](./16-web-cache-poisoning/011-web-cache-poisoning-combining-vulnerabilities.md) | Expert |
+| 012 | [Cache key injection](./16-web-cache-poisoning/012-web-cache-poisoning-cache-key-injection.md) | Expert |
+| 013 | [Internal cache poisoning](./16-web-cache-poisoning/013-web-cache-poisoning-internal.md) | Practitioner |
+
+### 17. Insecure Deserialization
+
+| # | 랩 | 난이도 |
+|---|-----|--------|
+| 001 | [Modifying serialized objects](./17-insecure-deserialization/001-deserialization-modifying-serialized-objects.md) | Apprentice |
+| 002 | [Modifying serialized data types](./17-insecure-deserialization/002-deserialization-modifying-serialized-data-types.md) | Apprentice |
+| 003 | [Using application functionality to exploit insecure deserialization](./17-insecure-deserialization/003-deserialization-using-application-functionality.md) | Apprentice |
+| 004 | [Arbitrary object injection in PHP](./17-insecure-deserialization/004-deserialization-arbitrary-object-injection-php.md) | Practitioner |
+| 005 | [Exploiting Java deserialization with Apache Commons](./17-insecure-deserialization/005-deserialization-exploiting-java-apache-commons.md) | Practitioner |
